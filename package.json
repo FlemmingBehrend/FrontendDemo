@@ -1,0 +1,33 @@
+{
+  "name": "FrontendDemo",
+  "version": "1.0.0",
+  "description": "frontend demo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FlemmingBehrend/FrontendDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlemmingBehrend/FrontendDemo/issues"
+  },
+  "homepage": "https://github.com/FlemmingBehrend/FrontendDemo",
+  "dependencies": {
+    "bower": "^1.3.1",
+    "grunt": "^0.4.5",
+    "grunt-cli": "0.1.9",
+    "grunt-contrib-connect": "0.5.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-env": "^0.4.4",
+    "grunt-jscs": "^1.8.0",
+    "grunt-karma": "^0.10.1",
+    "jasmine-core": "^2.4.1",
+    "jshint-stylish": "^2.1.0",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.8",
+    "karma-jasmine": "^0.3.6",
+    "load-grunt-tasks": "^3.3.0",
+    "requirejs": "2.1.9"
+  }
+}

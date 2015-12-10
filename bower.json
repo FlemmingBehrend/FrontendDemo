@@ -1,0 +1,13 @@
+{
+  "name": "FrontendDemo",
+  "description": "frontend demo",
+  "main": "",
+  "authors": [
+    "FlemmingBehrend <topfeb@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/FlemmingBehrend/FrontendDemo",
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
